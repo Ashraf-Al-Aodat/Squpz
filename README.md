@@ -1,5 +1,3 @@
 # Squpz
 
-Under devolopment.
-
-An android Game build useing java and Libgdx framework with google cloud.
+Under development, An android Game build using java and Libgdx framework with google cloud.
